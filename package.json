@@ -1,0 +1,30 @@
+{
+  "name": "tmon",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "history": "^4.7.2",
+    "immutability-helper": "^2.6.2",
+    "izitoast": "^1.2.0",
+    "material-ui": "^1.0.0-beta.25",
+    "moment": "^2.20.1",
+    "prop-types": "^15.6.0",
+    "query-string": "^5.0.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.0.17",
+    "react-sortable-hoc": "^0.6.8",
+    "redux": "^3.7.2",
+    "redux-form": "^7.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "redux-logger": "^3.0.6"
+  }
+}
